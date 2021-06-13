@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there! I'm Jo ✨ 
 
 <!--
 **joannsiciliano/joannsiciliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+A lil bit about me: 
 
 - 🔭 I’m currently working on my final project at Flatiron School in Denver and building professional connections.
 - 🌱 I’m currently learning creative coding, generative art, and machine learning. 
