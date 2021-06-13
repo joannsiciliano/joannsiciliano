@@ -2,15 +2,15 @@
 
 <!--
 **joannsiciliano/joannsiciliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on my final project at Flatiron School in Denver and building professional connections.
+- 🌱 I’m currently learning creative coding, generative art, and machine learning. 
+- 👯 I’m looking to collaborate on building innovatve and creative applications.
+- 🤔 I’m looking for help with getting my foot in the software industry.
+- 💬 Ask me about full-stack web development, creative coding, 
+- 📫 How to reach me: joannsiciliano.dev@gmail.com
+- 😄 Pronouns: she/they
+- ⚡ Fun fact: i like turtles
+
