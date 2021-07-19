@@ -6,7 +6,7 @@
 A lil bit about me: 
 
 - 🔭 I’m currently looking for work as a full stack or front end developer now that I've completed Flatiron Coding School! 
-- 🌱 I’m currently learning creative coding, generative art, and machine learning. 
+- 🌱 I’m currently learning creative coding, generative art, blender, C++. 
 - 👯 I’m looking to collaborate on building innovatve and creative applications.
 - 🤔 I’m looking for help with getting my foot in the software industry.
 - 💬 Ask me about full-stack web development, creative coding, cellular respiration. 
