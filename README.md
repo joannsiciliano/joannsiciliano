@@ -4,12 +4,10 @@
 **joannsiciliano/joannsiciliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 A lil bit about me: 
-
-- 🔭 I’m currently looking for work as a full stack or front end developer now that I've completed Flatiron Coding School! 
-- 🌱 I’m currently learning creative coding, generative art, blender, C++. 
-- 👯 I’m looking to collaborate on building innovatve and creative applications.
+- 👩‍💻 Front End Developer at Production Club.
+- 🌱 I’m currently learning creative coding, generative art, blender, C++, React (always). 
 - 💬 Ask me about full-stack web development, creative coding, cellular respiration. 
-- 📫 How to reach me: joannsiciliano.dev@gmail.com
+- 📫 How to reach me: joann@productionclub.net
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I love roller skating and competing in olympic weightlifting! 
 
